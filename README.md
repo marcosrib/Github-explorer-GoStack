@@ -6,6 +6,7 @@
   - [Preview:](#camera-preview)
   - [Funcionalidades:](#gear-funcionalidades)
   - [Bibliotecas utilizadas:](#file_folder-bibliotecas-utilizadas)
+  - [Como executar:](#arrow_forward-como-executar)
 
 
 ## :memo: Descrição do projeto:
