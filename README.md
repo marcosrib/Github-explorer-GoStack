@@ -45,5 +45,5 @@ yarn ou npm install
 Para rodar o projeto execute.
 
 ```
-yarn dev:server
+yarn start
 ```
