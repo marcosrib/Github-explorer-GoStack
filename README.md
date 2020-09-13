@@ -3,7 +3,7 @@
 
 ## :page_with_curl: Ídice: 
   - [Descrição do projeto:](#memo-descrição-do-projeto)
-  -  [Preview:](#camera-preview)
+  - [Preview:](#camera-preview)
   - [Funcionalidades:](#gear-funcionalidades)
   - [Bibliotecas utilizadas:](#file_folder-bibliotecas-utilizadas)
 
