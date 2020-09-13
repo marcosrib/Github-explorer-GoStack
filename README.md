@@ -33,4 +33,17 @@ Este projeto tem como propósito pesquisar, exibir e armazenar localmente os rep
 - react-router-dom.
 - styled-components.
 
+## :arrow_forward: Como executar:
+No terminal clone o projeto.
+```
+git clone https://github.com/marcosrib/Github-explorer-GoStack.git
+```
+Entre na pasta do projeto e instale as dependências executando.
+```
+yarn ou npm install
+```
+Para rodar o projeto execute.
 
+```
+yarn dev:server
+```
