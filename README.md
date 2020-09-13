@@ -2,13 +2,13 @@
 # Github-Explorer
 
 ## :page_with_curl: Ídice: 
-  - [Descriçao do projeto:](#memo-descriçao-do-projeto)
+  - [Descrição do projeto:](#memo-descrição-do-projeto)
   -  [Preview:](#camera-preview)
   - [Funcionalidades:](#gear-funcionalidades)
   - [Bibliotecas utilizadas:](#file_folder-bibliotecas-utilizadas)
 
 
-## :memo:   Descriçao do projeto:
+## :memo:   Descrição do projeto:
 
 Este é um projeto desenvolvido no bootcamp GoStack da Rockseat utilizando ReactJs.
 
